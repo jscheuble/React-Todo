@@ -2,6 +2,26 @@
     text-align: center;
 }
 
+body {
+    background: #61c2c2;
+}
+
 .completed {
     text-decoration: line-through;
+}
+
+.todo-list {
+    background: #c5e8e8;
+    width: 40%;
+    margin: 3% auto;
+    border-radius: 5px;
+    padding: 3%;
+}
+
+.todo {
+    background: #fff;
+}
+
+form {
+    margin-top: 3%;
 }
